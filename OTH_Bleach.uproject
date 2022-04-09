@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.23",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "OTH_Bleach",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+      "AdditionalDependencies": [
+        "Engine",
+        "Paper2D",
+        "CoreUObject"
+      ]
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"WindowsNoEditor",
+		"HTML5"
+	]
+}
